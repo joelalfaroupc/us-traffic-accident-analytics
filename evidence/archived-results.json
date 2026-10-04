@@ -1,0 +1,45 @@
+{
+  "evidence_type": "Archived academic outputs; not newly rerun model results",
+  "new_jersey_feature_dataset": {
+    "rows": 8923,
+    "columns": 19
+  },
+  "d3_multistate_raw_rows": 15000,
+  "d3_multistate_clean_rows": 14788,
+  "d3_k_prototypes_cluster_sizes": [
+    8671,
+    6117
+  ],
+  "d3_cure_like_cluster_sizes": [
+    13955,
+    833
+  ],
+  "d4_final_famd": {
+    "rows": 14689,
+    "active_features": 15,
+    "components": 8,
+    "hierarchical_subsample": 1000,
+    "cluster_sizes": {
+      "1": 5195,
+      "2": 4149,
+      "3": 2476,
+      "4": 2562,
+      "5": 307
+    }
+  },
+  "d4_nj_famd": {
+    "components": 7,
+    "selected_kmeans_k": 4
+  },
+  "d3_county_time_series": {
+    "selected_clusters": 6,
+    "minimum_nonempty_months": 6
+  },
+  "limitations": [
+    "Subset analyses, not the complete national dataset",
+    "Severity describes traffic disruption, not injury severity",
+    "No exposure denominator or causal identification",
+    "Dependencies are not locked; full workflow has not been rerun in this review",
+    "Report NJ counts differ from archived CSV: 8922/8924 versus verified 8923"
+  ]
+}

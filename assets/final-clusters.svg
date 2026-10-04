@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440">
+<rect width="1000" height="440" fill="#f8fafc"/>
+<text x="40" y="50" font-family="sans-serif" font-size="25" font-weight="700" fill="#0f172a">D4: five profiles in the mixed-data representation</text>
+<text x="40" y="84" font-family="sans-serif" font-size="16" fill="#475569">Archived cluster assignments · number of records</text>
+<text x="40" y="147" font-family="sans-serif" font-size="17" fill="#334155">Cluster 1</text>
+<rect x="195" y="125" width="620.00" height="30" rx="4" fill="#22577a"/>
+<text x="825.00" y="147" font-family="sans-serif" font-size="17" fill="#0f172a">5,195</text>
+<text x="40" y="195" font-family="sans-serif" font-size="17" fill="#334155">Cluster 2</text>
+<rect x="195" y="173" width="495.16" height="30" rx="4" fill="#38a3a5"/>
+<text x="700.16" y="195" font-family="sans-serif" font-size="17" fill="#0f172a">4,149</text>
+<text x="40" y="243" font-family="sans-serif" font-size="17" fill="#334155">Cluster 3</text>
+<rect x="195" y="221" width="295.50" height="30" rx="4" fill="#57cc99"/>
+<text x="500.50" y="243" font-family="sans-serif" font-size="17" fill="#0f172a">2,476</text>
+<text x="40" y="291" font-family="sans-serif" font-size="17" fill="#334155">Cluster 4</text>
+<rect x="195" y="269" width="305.76" height="30" rx="4" fill="#80ed99"/>
+<text x="510.76" y="291" font-family="sans-serif" font-size="17" fill="#0f172a">2,562</text>
+<text x="40" y="339" font-family="sans-serif" font-size="17" fill="#334155">Cluster 5</text>
+<rect x="195" y="317" width="36.64" height="30" rx="4" fill="#b5e48c"/>
+<text x="241.64" y="339" font-family="sans-serif" font-size="17" fill="#0f172a">307</text>
+<text x="40" y="405" font-family="sans-serif" font-size="15" fill="#64748b">Population, preprocessing and cluster definitions differ between D3 and D4.</text></svg>

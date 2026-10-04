@@ -1,0 +1,135 @@
+[
+  {
+    "stage": "D3",
+    "original_file": "Scripts Anexos/EDA y Limpieza.R",
+    "published_file": "analysis/d3/scripts/EDA y Limpieza.R",
+    "original_sha256": "13c152525c53e62501561d33c3af8f98e35ee7e7e493ef5071d88133caee88f1",
+    "published_sha256": "69efea6de74987d6c9b817ff73bccd4474a9536fa41454d030acc6562db66e2c"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Anexos/Feature Engineering.R",
+    "published_file": "analysis/d3/scripts/Feature Engineering.R",
+    "original_sha256": "17cb778aa992798d4d1d8a07e5910baf8630126ceb035c6e8a76450fcba6b86c",
+    "published_sha256": "c39b8033d1a82a3272475163f056d864de83269135b09f49728b0f581464843d"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Anexos/Script_outliers.R",
+    "published_file": "analysis/d3/scripts/Script_outliers.R",
+    "original_sha256": "72ba04faf51a862a6260d41ca90e50bc6ee3b4eec01f751cf80a27cd2ab3c501",
+    "published_sha256": "52690857479fc337066ef2aced67a516cf9cf96416bc0c8de508dd0ff1d1dd83"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Anexos/imputacion.R",
+    "published_file": "analysis/d3/scripts/imputacion.R",
+    "original_sha256": "bb4d7b978339ab3e20480237350b5f0dc0082681d88c414f0ac703199b5812a0",
+    "published_sha256": "96a63c67553fc73e22c9faefa72f9851d78f206faa428144d53f76067372be4d"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Anexos/subset_NJ.R",
+    "published_file": "analysis/d3/scripts/subset_NJ.R",
+    "original_sha256": "ccd67d964a0ea3a5beb10803cba02d2586a1c925a368a7de4c9f6b64d4f0a713",
+    "published_sha256": "2083bca736fd9b77c866add49faf3ad702c8fb054857eeeca0e33f387e336413"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Anexos/ts_clustering.R",
+    "published_file": "analysis/d3/scripts/ts_clustering.R",
+    "original_sha256": "0695658a33c6421975859e217524c5c78b72ce1b64fb2987eb01dd475883ab96",
+    "published_sha256": "0695658a33c6421975859e217524c5c78b72ce1b64fb2987eb01dd475883ab96"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Principales/Script_Final_Grupo3.R",
+    "published_file": "analysis/d3/scripts/Script_Final_Grupo3.R",
+    "original_sha256": "7e52701f188d0d714a43fd496b715d5251d29257a10b348fa7c6cfe4658e4595",
+    "published_sha256": "2571a598d6b40fbe9b311975fa2a37642ff62ddaa43f7c5d9350d4ef99524fd5"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Principales/clustering_kproto_cure.R",
+    "published_file": "analysis/d3/scripts/clustering_kproto_cure.R",
+    "original_sha256": "07ebeb92a7fc24f18967b493a96552fe5c858ed4db1f2615448d4cdffd1cebc3",
+    "published_sha256": "995c9b383f61c66ecbd2bd44e73cc67ae15398542324de6d4978c2861a22380c"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Principales/preprocesado_clustering_US_accidents.R",
+    "published_file": "analysis/d3/scripts/preprocesado_clustering_US_accidents.R",
+    "original_sha256": "c0a37295b0684ab59e6797ad5521a512f70da6dec84682e5f00dd116ffa8617c",
+    "published_sha256": "6ae9147cbb741eb904eb6f1bd2281be2957e7a815d77df1a7afbea712b53d188"
+  },
+  {
+    "stage": "D3",
+    "original_file": "Scripts Principales/profiling_completo.R",
+    "published_file": "analysis/d3/scripts/profiling_completo.R",
+    "original_sha256": "50d6b2f8ee5f0aeea4a86e66a74256f4f68aa1ca936eaea5ef838db0057bc476",
+    "published_sha256": "831936fdf9ce88000f11e10368e27810a907a32b1e078e5692f00b20a7615068"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/CA.R",
+    "published_file": "analysis/d4/scripts/CA.R",
+    "original_sha256": "f8369cb3f918d112f0f88983e6d63c54080dc1c750f7ddcaa8d5074f751ff538",
+    "published_sha256": "60895bbd868a2696cebd96fcdb67a2cbf9734972d88aaf8bdc16f47ca3e59eeb"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/FAMD_NJ_PMAAD_variant2_noCounty_noLatLng.R",
+    "published_file": "analysis/d4/scripts/FAMD_NJ_PMAAD_variant2_noCounty_noLatLng.R",
+    "original_sha256": "1742b00376de83f5e62abefc02757bd4b3e94eed86d2adf898fe8fe0daf52585",
+    "published_sha256": "b7e40ec8f017ac6cfa21029ab051bd9c44b1a0714fd1ba0289f5ab7244c2bf8c"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/Geo.R",
+    "published_file": "analysis/d4/scripts/Geo.R",
+    "original_sha256": "a561b04ddb804b6b2a47087f957dead46430fcab28ae5345f147c640ca6e6bd5",
+    "published_sha256": "1357aa32838a97e47a15df54df5ab2ff81201a476d2374abe7aec7d78703cfa1"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/LDA.R",
+    "published_file": "analysis/d4/scripts/LDA.R",
+    "original_sha256": "cc5d4cbeb1393a94dc881cb654ebedcd1b80a63ef67fc6857d57070d507a0777",
+    "published_sha256": "cc77c469f35c11232a4b593351ebabf43ae0b5a62bbb02023af92ea635c3cec3"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/Scripts Clustering/exploratorio/clustering_exploratorio.R",
+    "published_file": "analysis/d4/scripts/Scripts Clustering/exploratorio/clustering_exploratorio.R",
+    "original_sha256": "c41c1c1ed7fb5df8ac2db81cb2372481e0b5e380d5bdd30940fc802e330f47bf",
+    "published_sha256": "2d9be91342828f182ed43447998236478b61978ae9f6de533e46482c6a0bf614"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/Scripts Clustering/final/clustering_final.R",
+    "published_file": "analysis/d4/scripts/Scripts Clustering/final/clustering_final.R",
+    "original_sha256": "cb9cb48cdf827f8eff7554be323f218b646b02344232305ef47bae8f01b90353",
+    "published_sha256": "baf63168a30cb821b7604e6906b8b0656d688a2b01febc1b43b7c914ba7e4c6a"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/Scripts Clustering/profiling_final_k5.R",
+    "published_file": "analysis/d4/scripts/Scripts Clustering/profiling_final_k5.R",
+    "original_sha256": "7e5e22bf89df4ba5979e7c0941c0fdd0f5b713cffaa7e4f29247339663a32219",
+    "published_sha256": "9418f13db224694150ca773721c9f20250f5dda81cad44709e66cf277b9e0f91"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/acm_us_accidents_final.R",
+    "published_file": "analysis/d4/scripts/acm_us_accidents_final.R",
+    "original_sha256": "1f8d322e0bb67f0e227aef28281b85954ffa794d9563f5592bf67ff23ad735bc",
+    "published_sha256": "b7db8d40915235ab9e5ba8b8b84aafc97169496937329aff4142d38b21ea532f"
+  },
+  {
+    "stage": "D4",
+    "original_file": "Scripts/preprocesamiento_textual.R",
+    "published_file": "analysis/d4/scripts/preprocesamiento_textual.R",
+    "original_sha256": "ea9eeaca41fe31301725d3d2e35ba29bb9471bf98f39a50076239c8925345aa8",
+    "published_sha256": "6bf5ac34f3ee3aadb7293183a6cd8078f7ef71dd16495a923f13fc157d560e5b"
+  }
+]
